@@ -70,6 +70,13 @@ GeminiのAPIを利用して悩みの返信やアドバイスを生成。
 webアプリのアカウントとgmailを連携し、AIからのアドバイスが来た時にgmailに通知が来る
 
 
-■ 機能の実装方針予定
+■ 使用予定の技術スタック
 
-1.Gemini API
+フロントエンド
+HTML、CSS、JavaScript
+
+バックエンド
+Ruby、Ruby on Rails
+
+API
+Gemini API
